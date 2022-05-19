@@ -15,5 +15,12 @@ public class Main {
         GulK.color="blue";
         GulK.size="3848325828km";
         GulK.name="preacheX";
+
+        //adding features for Planet1
+        Planet1Feature Gulk=new Planet1Feature();
+        GulK.color="blue";
+        GulK.size="26565568km";
+        Gulk.name="preacheX";
+
     }
 }
