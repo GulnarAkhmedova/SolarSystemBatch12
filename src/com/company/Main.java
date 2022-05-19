@@ -21,6 +21,6 @@ public class Main {
         GulK.color="blue";
         GulK.size="26565568km";
         Gulk.name="preacheX";
-        
+
     }
 }
