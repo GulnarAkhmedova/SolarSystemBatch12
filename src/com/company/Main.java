@@ -9,5 +9,11 @@ public class Main {
         FactorX.Moon="4";
         FactorX.Planet="2";
         FactorX.Star="10000";
+
+        //adding features for planet1
+        Planet1Features GulK=new Planet1Features();
+        GulK.color="blue";
+        GulK.size="3848325828km";
+        GulK.name="preacheX";
     }
 }
