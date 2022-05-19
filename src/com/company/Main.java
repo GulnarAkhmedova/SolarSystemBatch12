@@ -15,5 +15,11 @@ public class Main {
         GulK.color="blue";
         GulK.size="3848325828km";
         GulK.name="preacheX";
+
+        //adding freatures for Planet2
+        Planet2 Olso =new Planet2();
+        Olso.name="Ozhan";
+        Olso.size="694254km";
+        Olso.color="pink";
     }
 }
